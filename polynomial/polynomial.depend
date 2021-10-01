@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1629452373 source:j:\6th term\ds2\polynomial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"test.h"
+
+1629451132 source:j:\6th term\ds2\polynomial\functions.c
+
+1629451921 source:j:\6th term\ds2\polynomial\fac.c
+
+1629452288 j:\6th term\ds2\polynomial\fac.h
+
+1629452319 j:\6th term\ds2\polynomial\test.h
+
+1629452308 source:j:\6th term\ds2\polynomial\test.c
+	"test.h"
+
